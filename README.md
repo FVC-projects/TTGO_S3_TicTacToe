@@ -1,5 +1,4 @@
-# TTGO_S3_TicTacToe
-Tic Tac Toe Game with Minimax
+# TTGO_S3_TicTacToe with Minimax algorithm
 
 Tic Tac Toe Game with Minimax algorithm
 
